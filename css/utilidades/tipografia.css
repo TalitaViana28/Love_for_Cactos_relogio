@@ -1,0 +1,47 @@
+.font-1 {
+  font: 300 1.2rem/1.2 "Kanit", sans-serif;
+}
+
+.font-2 {
+  font: 400 1.375rem/1.2 "Kanit", sans-serif;
+}
+
+.font-3 {
+  font: 300 1.5rem/2 "Kanit", sans-serif;
+}
+
+.font-4 {
+  font: 600 1.5rem/2 "Red Hat Mono", monospace;
+}
+
+.font-5 {
+  font: 500 1.5rem/2.25 "Kanit", sans-serif;
+}
+
+.font-6 {
+  font: 400 1.75rem/2.25 "Kanit", sans-serif;
+}
+
+.font-7 {
+  font: 400 2.5rem/3.25 "Caveat", cursive;
+  line-height: 5px;
+}
+
+.font-8 {
+  font: 700 2.5rem/3.25 "Caveat", cursive;
+}
+
+.font-9 {
+  font: 400 3rem/3.25 "Caveat", cursive;
+}
+
+.font-10 {
+  font: 700 3rem/3.25 "Caveat", cursive;
+}
+
+.font-11 {
+  font: 400 3rem/3 "Kanit", sans-serif;
+  line-height: 60px;
+}
+
+

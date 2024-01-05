@@ -1,0 +1,31 @@
+.numeros-grid {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.numeros-grid div:nth-child(1) {
+  background: var(--cor-p1);
+}
+
+.numeros-grid div:nth-child(2) {
+  background: var(--cor-p2);
+}
+
+.numeros-grid div:nth-child(3) {
+  background: var(--cor-p3);
+}
+
+.numeros-grid h3 {
+  padding-left: 60px;
+  font-family: "Red Hat Mono", monospace;
+  font-size: 1.75rem;
+}
+
+.numeros-grid span {
+  padding-left: 60px;
+
+  font-family: "Kanit", sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
